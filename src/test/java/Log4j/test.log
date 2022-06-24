@@ -1,0 +1,903 @@
+2020-08-16 23:40:21 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:40:21 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:40:21 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 da2930182b81a0969bededaf2726cadc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=dwvTTN-nMuv48NAoxXvRqsfcS_HuLt3lZCRP7mq4mwXfdCIy5H6q7g==
+2020-08-16 23:40:21 INFO  Log:14 - Response body: io.restassured.internal.RestAssuredResponseImpl@de18f63
+2020-08-16 23:40:37 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:40:38 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:40:39 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 c919b9e27d1801d9bb95ace3f9e1634e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=Md8tqzIIFMlp-YDDnjEayrr7q2VNDyPLviHJMljas7Slg9Wat0o6vA==
+2020-08-16 23:40:39 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-16 23:40:39 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:40:39 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 19de263f7580fc33f1362f80a150059b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=GJtZRL3BEE91dN8abkRRcQM19eWZyCPYBtr5018g5Hk2XuhLbzLRqA==
+2020-08-16 23:40:39 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242045279
+2020-08-16 23:40:40 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:40:41 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 c837fad33cdc26548614f8e2b4b2b268.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=q_bA84V88jnA6psQRH5DTcA0_fhEr0bDO-2Co6O3xFO11Q4T5s-U2w==
+2020-08-16 23:41:00 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:41:00 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:41:00 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 1a70506ef88d5d28a7d133d7ccac4682.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=xIHu3i4HCYkbiCOiVxH3sugG1KRz6dqhSJrF4XQP4EYBGT9s9LzG2A==
+2020-08-16 23:41:00 INFO  Log:14 - Response body: io.restassured.internal.RestAssuredResponseImpl@3e3315d9
+2020-08-16 23:41:28 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:41:29 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:41:29 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 dae06bf8d21ab46f580fe0c968bf0f52.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=dcuLgjQQoHtE-Z87RN0a8YYZkiFUM66299O_7CuU1K_iAOv-6XvdhQ==
+2020-08-16 23:41:32 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-16 23:41:33 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:41:33 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 fdf96859c8a26606c28f770011e1fdeb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=otkG-EKsefDZZMhDUzHoVvqnMwDPvEE1d7YfioK2DvSQ1nKLeAt0gQ==
+2020-08-16 23:41:33 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:41:33 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:41:34 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 bbadbb4001c3a3240e9b56f91724e0fe.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=zWYCCUIBNq-1rZ3RcnrQJcCnd6px9GAR7-trd8JuRvHRU8CM_qjWxw==
+2020-08-16 23:41:33 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-16 23:41:34 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:41:34 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 c89da043ccd000832ed88f295099b1ec.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=o7iy9LAFuaNzTUR_MulTeSBUPzYllHmoXZXfeP1FDx2wvwUdknB5xw==
+2020-08-16 23:41:34 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242045313
+2020-08-16 23:41:35 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:41:35 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 0fb08e0a4a242831e9f03221ed7da55f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=uQAXlcCuXzoWATblntpXmqq3PiuLt3v-DUZsp2Mc6ck2lanxArZrdg==
+2020-08-16 23:41:53 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:41:53 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:41:53 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 3ea7dec9ae91ed3e4cc2a65d3613ed52.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=DK8viP3bPDzY-nVhp-CfmioDO8Nxxl_D3v7VDjd6NlmIInvTfLcnCw==
+2020-08-16 23:41:53 INFO  Log:14 - Response body: io.restassured.internal.RestAssuredResponseImpl@49469ffa
+2020-08-16 23:42:21 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:42:21 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:42:21 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 ceabec403784e3c3155b50578b3935fd.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=dtjhMrqzs3pGV4Oj29qnrkvWHF130_DUVFRlicdcyAxKI_mSqd56bA==
+2020-08-16 23:42:24 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-16 23:42:25 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:42:25 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 dccfa316bb1b94c6fd9cede16dd6ab39.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=uLE26olI6rpoSEHMPrpbZbuudAOWnViEzoM6zTYOtaIhsbf-gOJPVw==
+2020-08-16 23:42:27 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/tasks/4106057470/reopen
+2020-08-16 23:42:27 INFO  Log:14 - Response header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:42:27 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 0f3c879d130e180527f51c1d7a0ba765.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=Gfc3qowYtD2TpjikiDuBy2Ym4TdpuQbPGojVVuyc1O8tW04GVjPsOQ==
+2020-08-16 23:42:27 INFO  Log:14 - Response body: io.restassured.internal.RestAssuredResponseImpl@7f85217c
+2020-08-16 23:42:32 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:42:32 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:42:33 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 3ea7dec9ae91ed3e4cc2a65d3613ed52.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=BW4cjuXRFZIj8al0gncSK0t_qTq3TvlQ4wbqGTnEiekF63miHb_FnQ==
+2020-08-16 23:42:32 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-16 23:42:33 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:42:33 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 d1ff49308e235acbe8d49c0a59cc806a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=OKBYu_ZjB3gPUzMDieFB7N754w0Dxd2HJyq89XwVeQ7bf-uRdjRUuQ==
+2020-08-16 23:42:33 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242045355
+2020-08-16 23:42:34 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:42:34 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 69b8510b9be29c1f776639b7e7318dac.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=fE7Wpt4Zf4V7jNxSxV94YfOSR9zVyAMkd-OONGfq8IrI5elC7vrDvw==
+2020-08-16 23:55:34 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:55:34 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:55:34 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 0e4baa40f8860e2e0eea54b2a4c33ba5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=8Qda7aAwUknlJzwnwStX4o4Xa9_g7xQxiVmBXU-pgaplRUwkMvFmrA==
+2020-08-16 23:55:34 INFO  Log:14 - Response body: {
+	"id": 2242046129,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-16 23:55:52 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:55:52 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:55:53 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 3aa2c5d8509af94e91f2680cf10da532.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=rKfAqj4Gh9z_Fb9IE-BERqwkvvGGQd9hKKLirdxTEVm_-EY8X28RGA==
+2020-08-16 23:55:52 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-16 23:55:53 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:55:53 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 37a7b82c9bd3774d003812bdfacee460.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=iVXlC8ieYVpSnVdizam8QWgUh_jKoQ-4WJ9E4RfSOQS_4awIwBKz5g==
+2020-08-16 23:55:53 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242046129
+2020-08-16 23:55:54 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:55:54 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 37a7b82c9bd3774d003812bdfacee460.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=epTw1MmJbyfKrVevTPl79JP5WM478rgQvHo43OG_RRNtJhdjJpoE-w==
+2020-08-16 23:56:13 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:56:13 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:56:13 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 08c8928e40ae368a9e7c75aead506958.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=5ngaOSN3ya2ezb_RbT4NqJWRkAwWTcjmWjp5Cal5KGEpNVSIYTLUbQ==
+2020-08-16 23:56:13 INFO  Log:14 - Response body: {
+	"id": 2242046157,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-16 23:56:44 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:56:45 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:56:45 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 0072c09c1cbef528d795dbc2c3fe4560.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=BT1zA-llr-zPWI55qoo9qfxPflWjgL4B3TFUXgi_DEgl7P9Cv5nNsw==
+2020-08-16 23:56:48 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-16 23:56:48 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:56:48 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 4d13b118cedf75df371701666cf78c31.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=vVZPnWaDUs1S2H-n6eILftbBipYxxGEMrmOjq-yvCYuMpW3yZNBI8A==
+2020-08-16 23:56:48 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:56:49 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:56:50 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 fc88834ae218426155d37169e2c41986.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=yJWx8g9UVymv_bwQf_zEeZmCh23W2cl5hLHyaScQUU9TfyD30RQeUw==
+2020-08-16 23:56:49 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-16 23:56:50 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:56:50 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f0a04ccdef21b4237b2d018056b3367d.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=CrqFgtqDjyrB6aC3Zs0pMJadjBUcanFIW_IkvTN6d4swCDBEKHtOrA==
+2020-08-16 23:56:50 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242046157
+2020-08-16 23:56:51 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:56:51 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 a6fdc86be5a22358b496ad75be45208f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=NVvGdEOYl_HuFV3DklF7_oJV7YGMnoIJ_93t8zKtpzHelKEc4l9uHg==
+2020-08-16 23:57:10 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:57:10 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:57:10 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 1a70506ef88d5d28a7d133d7ccac4682.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=z4kHS1mB4eyzfqPr0AANyD8Lv-n7tiaA6wVnQpyyP2ESt37uizHPoQ==
+2020-08-16 23:57:10 INFO  Log:14 - Response body: {
+	"id": 2242046213,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-16 23:57:38 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:57:39 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:57:39 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 5b349d62daf165d04da9d3f5802bc61f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=apdyf9w3tVM6jy3x2aiB-BDEIfNuuEQEU8d1hq8UN3k6LH9QjhNTNQ==
+2020-08-16 23:57:42 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-16 23:57:43 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:57:43 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 ea3ab3ba863446bb1632fe25698154f5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=tyK4mUtEO8L-lMSCIzYzA-UEotBdc8Mpdq9OWK4bdW_wjH2JJUyqGw==
+2020-08-16 23:57:45 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/tasks/4106081666/reopen
+2020-08-16 23:57:45 INFO  Log:14 - Response header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:57:45 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 71574fe80536e57a979760a9b7064804.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=sTXfuwXKSHvok34EcqeRZtKy887ZRdPocj7yWl2triwl9RncYw8QUw==
+2020-08-16 23:57:45 INFO  Log:14 - Response body: 
+2020-08-16 23:57:50 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-16 23:57:51 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:57:51 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 79e5bd56174a0ac9fbc66556743812d7.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=pPaSYFJH1DOgdxjCdCkxsMVEnpb7n3ZUjqxxHwlnuMt0pYSwjBZEdQ==
+2020-08-16 23:57:51 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-16 23:57:51 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:57:51 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 ea3ab3ba863446bb1632fe25698154f5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=FjLQfzRhK8EH9pd5yHh3xnTwL-88XCZZDtbVpv8oPsEq5rKf2cKJHA==
+2020-08-16 23:57:51 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242046213
+2020-08-16 23:57:52 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 16:57:52 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 5b349d62daf165d04da9d3f5802bc61f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=4wUsCEXMjLUJp3ol4RSuRT4JwXr3cicUeo77rPjW4xC828zxYdUttQ==
+2020-08-17 00:02:12 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:02:12 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:02:12 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 6c12f45af1f84786ea85b2585f1d5df2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=mIYBK9U-Dsj0N9kFR-7Tq-bcQ7QJwexZcuM6lnsV77DvXGb4i5Hi5w==
+2020-08-17 00:02:12 INFO  Log:14 - Response body: {
+	"id": 2242046518,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:02:31 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:02:31 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:02:32 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 0e4baa40f8860e2e0eea54b2a4c33ba5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=DqKyVNJTBELT4CmgRBBOidYcxmeK7gT3er2UkRlOnHZ4ukEaNOKOdA==
+2020-08-17 00:02:32 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:02:32 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:02:33 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 0490c35d7749fc1c1479f84160370a4b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=onfESp8fTAZ8VHIk96IR6fQexbLsLmU1N_V_-1EmNAZTlE0jGB6zoA==
+2020-08-17 00:02:32 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242046518
+2020-08-17 00:02:33 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:02:33 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 8730481efae5d62c03ca8bf771c54e2f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=KST7RhQUA5Rk4bOP0-ByPNdQia1ng1FOFHq20kP_kVjLWmWS6Q4Fbw==
+2020-08-17 00:02:53 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:02:53 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:02:53 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 4466aaf3ba3ee7921322175dc8537b7b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=jUyOv4vUiyoMZrel_y52JGtpdYxZaVVbXzCbpfJyIHeazrMOOSgXJw==
+2020-08-17 00:02:53 INFO  Log:14 - Response body: {
+	"id": 2242046557,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:03:21 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:03:22 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:03:22 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 37a7b82c9bd3774d003812bdfacee460.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=bzWTKLkaOomvdTIWQT48HM08d27_E8Mi3mSA7ESi93j3GBSNFozScQ==
+2020-08-17 00:03:25 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-17 00:03:26 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:03:26 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 94db66e0b13cce35d9db0c342571f977.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=-t-f0ZQ9PmgsMfqBbmQzBbTvKEKMs4at-IIubUD2s5e69v0UkwdIyg==
+2020-08-17 00:03:26 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:03:27 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:03:27 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f641be1c0aede19638606022b71f85e3.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=8Ig9eVcpboVlVUglc0yV28tW2vdKQfjQglg8cbn_lkexi8tg4b3PQw==
+2020-08-17 00:03:27 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:03:28 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:03:28 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 dae06bf8d21ab46f580fe0c968bf0f52.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=tAUp7vVTCLz5hXDPX0yLtYZooSoBgEbp5BFeVz-30bwfNaXAHY51Qg==
+2020-08-17 00:03:28 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242046557
+2020-08-17 00:03:28 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:03:28 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 fc88834ae218426155d37169e2c41986.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=13vhiEQNhjWCRKobaUVJbjA7f5X6h6Pj_yBSJ0K28QwU-U1yC81cIw==
+2020-08-17 00:03:48 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:03:48 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:03:48 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 a2e417d87c676916d4c148e947982e9f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=O-vRrw2gW9Os60V4k_MeHpS4eXsW_OaxIXRmDqOU-1P1vS54E4Sk-g==
+2020-08-17 00:03:48 INFO  Log:14 - Response body: {
+	"id": 2242046625,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:04:14 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:04:15 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:04:15 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 e7e467a77c2b65d1f524a87aad79becb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=Cq2chfECm21A48hbSRr7JAXVNOfTx3K7WuREJGBHuSDw_VF1bX0Mfg==
+2020-08-17 00:04:18 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-17 00:04:19 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:04:19 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 4a0ee5f08fa746093cef8b936257c691.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=OyvuIby3W034nIyboRsWwF7wv58PAT9oRYdthI0myDSjhjx2E3IMfQ==
+2020-08-17 00:04:20 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/tasks/4106092337/reopen
+2020-08-17 00:04:20 INFO  Log:14 - Response header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:04:20 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 e51142b132a2a14667512e908fde99e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=7F9TCDU4LnDPmjts83x7XfgkD3d4WWzTfeJjQ6BiUAciT2ANfUVgDg==
+2020-08-17 00:04:20 INFO  Log:14 - Response body: 
+2020-08-17 00:04:25 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:04:26 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:04:26 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 48870f7aa4d92d870c176f257241c13f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=6u828IZvZ4_zOhn18dfRv5TLG1Els45X38jAR7mlHGWLGBGqBm5dOw==
+2020-08-17 00:04:26 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:04:27 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:04:27 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 acfb1cd944f7bc93838f5d68a454df62.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=7usKzW7XQjESBzfcV4OmwS5fSZ2aTXBD9mrLEACK2c7y8k_btT-few==
+2020-08-17 00:04:27 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242046625
+2020-08-17 00:04:27 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:04:28 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 246b44c4747953e35657a81aebd7c7fb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=H7DEPYPuoyBg8_vhYJzWqRmI8TFf-5E1u_dLTbV-K0gfEEde9Wkn1g==
+2020-08-17 00:17:50 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:17:50 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:17:50 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f641be1c0aede19638606022b71f85e3.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=qK5aWBG3hxGdobBlP1Zv9foA66pGyFXTqAw15kulHJzc87rUOAkcJA==
+2020-08-17 00:17:50 INFO  Log:14 - Response body: {
+	"id": 2242047370,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:17:51 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_welcome_continue_with_email})
+2020-08-17 00:17:55 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_continue_with_email})
+2020-08-17 00:17:59 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_log_in})
+2020-08-17 00:18:05 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.AccessibilityId: Change the current view})
+2020-08-17 00:18:06 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.xpath: //*[@resource-id='com.todoist:id/name' and @text='Projects']/following-sibling::android.widget.ImageView})
+2020-08-17 00:18:08 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:18:09 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:18:09 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 c919b9e27d1801d9bb95ace3f9e1634e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=MIsKnmSlaSmcnGtygLWKF-vpjf9ZtueNNuy4l0WHCz1ISq2KZK1-Iw==
+2020-08-17 00:18:09 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:18:10 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:18:10 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 4aed579d267267dd8aac916efed7b06f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=_Au1nFykzTKaiSE1E1uomnbNNYCR4QtdNtxaimBVjBnkHO52_5bOrA==
+2020-08-17 00:18:10 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242047370
+2020-08-17 00:18:10 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:18:11 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 e51142b132a2a14667512e908fde99e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=Q8H696VXkjlWBEoA2DcX_dTJAvm-BUPg0wzpyh32RhP8PeNvqpLgUg==
+2020-08-17 00:18:30 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:18:30 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:18:30 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 4c1091eea33122e9566aa4ce896f96d6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=7w4ZnpkaR5W7OA4HQ6XyNBTQaT_tlJ7LNyLukpJaQnbHpRvMXJB4iA==
+2020-08-17 00:18:30 INFO  Log:14 - Response body: {
+	"id": 2242047407,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:18:30 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_welcome_continue_with_email})
+2020-08-17 00:18:34 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_continue_with_email})
+2020-08-17 00:18:39 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_log_in})
+2020-08-17 00:18:44 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.AccessibilityId: Change the current view})
+2020-08-17 00:18:45 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.xpath: //*[@resource-id='com.todoist:id/name' and @text='Projects']/following-sibling::android.widget.ImageView})
+2020-08-17 00:18:50 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/fab})
+2020-08-17 00:18:57 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:18:57 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:18:58 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 75f75533e7cd1fc09e1d71e46c9ff620.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=60yCdc1kDXHO8CGBq8J_ArZVhOt-YhmaDVzw2BozOZRepX1aKeeSBw==
+2020-08-17 00:19:00 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-17 00:19:01 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:01 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 0fb19d5f326a219e83b7a2975900484f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=NvofXO8yAkg2-BXFgip-6n7mHagDsimg_xQ5Nque4sjrEwz_mGKANQ==
+2020-08-17 00:19:01 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:19:02 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:02 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f2a8133584178fc004547ef003d97efc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=oIYH01As6FRxVlhWxObl4ADOrheHExYgiba4fEpMs25a3JSL-1VFpw==
+2020-08-17 00:19:02 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:19:03 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:03 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 4aed579d267267dd8aac916efed7b06f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=lVAxMozZkISTGmaOe3ktOOsnZUokmEsgrV7_jmqhMpaNHVwEielStA==
+2020-08-17 00:19:03 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242047407
+2020-08-17 00:19:04 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:04 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 75f75533e7cd1fc09e1d71e46c9ff620.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=iHOrpWKBucuwHO8JSNlt-FXqXsUdlktN407iYBiagcPXZXfUDxOMlQ==
+2020-08-17 00:19:25 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:19:25 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:25 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 27034129640b1a7427aa49bb1182e938.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=feM8sA8zs8u2Re84wVI-p1wjfYZSHVmqTHgl4OZQE8zt6Xq3wt7vuA==
+2020-08-17 00:19:25 INFO  Log:14 - Response body: {
+	"id": 2242047459,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:19:26 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_welcome_continue_with_email})
+2020-08-17 00:19:30 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_continue_with_email})
+2020-08-17 00:19:34 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/btn_log_in})
+2020-08-17 00:19:40 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.AccessibilityId: Change the current view})
+2020-08-17 00:19:41 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.xpath: //*[@resource-id='com.todoist:id/name' and @text='Projects']/following-sibling::android.widget.ImageView})
+2020-08-17 00:19:46 INFO  Log:14 - ================================== Stale Element Reference Exception===================================Located by By.chained({By.id: com.todoist:id/fab})
+2020-08-17 00:19:52 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:19:53 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:53 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 1969b693060171ec284d3d0f19afb534.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=UVv0TAjslg4av-gyDfy7B_azwknD6WqlUzJqmQsEXCIZ0jpSWWqUyQ==
+2020-08-17 00:19:56 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-17 00:19:57 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:57 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 a2e417d87c676916d4c148e947982e9f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=FuQjUE3AEPpIx0p_y-VRl96y8klMUo9_pML2r4SaACKou3CRuJkOow==
+2020-08-17 00:19:58 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/tasks/4106115970/reopen
+2020-08-17 00:19:58 INFO  Log:14 - Response header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:19:59 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 a2e417d87c676916d4c148e947982e9f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=BS7P41tVB3YceW6a1vVpG2FOEc49UHq7UmAAsrKbo0uYCdz8yspFuA==
+2020-08-17 00:19:58 INFO  Log:14 - Response body: 
+2020-08-17 00:20:03 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:20:04 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:20:04 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f641be1c0aede19638606022b71f85e3.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=67MK1r9xQ6Er5XZadSEkn9lTDDfDTLJR7voTT0rVPcULT22KjUUrCQ==
+2020-08-17 00:20:04 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:20:05 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:20:05 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 d7f5b4bbc6b589bcab884d2cc2e40e5f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=PqgQE_wLXt20rLNiElyiwy9fgQQmnHK0cNbcJcXWMerbrE-td5zrQw==
+2020-08-17 00:20:05 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242047459
+2020-08-17 00:20:05 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:20:06 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f18216907252ed03d81059ef28446736.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=F8ZziwZnc60G0f7kQqS75YHKllrnSjhXXdeW_MPVIgU7qvxca0kWhA==
+2020-08-17 00:26:58 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:26:58 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:26:58 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 56444c57c1ae571da2ff30d002bdc777.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=m8p4XekWFa6GpxKM1JOSh8N8Dq0PpRii-DeIRl6Nb_5anf2dx8dDgg==
+2020-08-17 00:26:58 INFO  Log:14 - Response body: {
+	"id": 2242047846,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:26:59 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_welcome_continue_with_email})
+2020-08-17 00:27:01 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: com.todoist:id/email_exists_input})
+2020-08-17 00:27:03 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_continue_with_email})
+2020-08-17 00:27:06 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: com.todoist:id/log_in_password})
+2020-08-17 00:27:07 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_log_in})
+2020-08-17 00:27:13 INFO  Log:14 - Click to element :Located by By.chained({By.AccessibilityId: Change the current view})
+2020-08-17 00:27:14 INFO  Log:14 - Click to element :Located by By.chained({By.xpath: //*[@resource-id='com.todoist:id/name' and @text='Projects']/following-sibling::android.widget.ImageView})
+2020-08-17 00:27:16 INFO  Log:14 - Click to element :[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, databaseEnabled=false, desired={platformName=android, app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, deviceName=Nexus_4_API_30, noReset=false, platformVersion=10, systemPort=8201}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86_arm, deviceName=emulator-5554, deviceScreenDensity=320, deviceScreenSize=768x1280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=48, systemPort=8201, takesScreenshot=true, viewportRect={left=0, top=48, width=768, height=1136}, warnings={}, webStorageEnabled=false}] -> xpath: //android.widget.RelativeLayout[.//*[@resource-id='com.todoist:id/name' and @text='Projects']]/following-sibling::*[./*[@text='Test Project']]]
+2020-08-17 00:27:16 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:27:17 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:27:17 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 fc88834ae218426155d37169e2c41986.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=kRBDskbB-8n1B-C9bfUcW4VF9RCmnLIOJ19i6PIJgP7qygL5NIrWCg==
+2020-08-17 00:27:17 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:27:17 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:27:18 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 d7f5b4bbc6b589bcab884d2cc2e40e5f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=cHbkWEQ-ODmkeQYRorT_b3J5S0ZtWqILlGGCGC1Cboa6cl5TSQtziQ==
+2020-08-17 00:27:17 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242047846
+2020-08-17 00:27:18 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:27:18 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f18216907252ed03d81059ef28446736.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=5RndXbOlnrcHkzOVscYqMM0xrmMzKmtiVYmz2P34xjYuNhNJ6-TEFQ==
+2020-08-17 00:27:38 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:27:38 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:27:38 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 1a98edd9b5ae710aff749fc0d5d62d67.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=nqV2K8sdWAmieijFQsxH0xP6bQzhnoXFUoVyeroP9V5lPd2r6n-1TQ==
+2020-08-17 00:27:38 INFO  Log:14 - Response body: {
+	"id": 2242047886,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:27:38 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_welcome_continue_with_email})
+2020-08-17 00:27:41 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: com.todoist:id/email_exists_input})
+2020-08-17 00:27:42 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_continue_with_email})
+2020-08-17 00:27:45 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: com.todoist:id/log_in_password})
+2020-08-17 00:27:46 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_log_in})
+2020-08-17 00:27:53 INFO  Log:14 - Click to element :Located by By.chained({By.AccessibilityId: Change the current view})
+2020-08-17 00:27:54 INFO  Log:14 - Click to element :Located by By.chained({By.xpath: //*[@resource-id='com.todoist:id/name' and @text='Projects']/following-sibling::android.widget.ImageView})
+2020-08-17 00:27:55 INFO  Log:14 - Click to element :[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, databaseEnabled=false, desired={platformName=android, app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, deviceName=Nexus_4_API_30, noReset=false, platformVersion=10, systemPort=8201}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86_arm, deviceName=emulator-5554, deviceScreenDensity=320, deviceScreenSize=768x1280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=48, systemPort=8201, takesScreenshot=true, viewportRect={left=0, top=48, width=768, height=1136}, warnings={}, webStorageEnabled=false}] -> xpath: //android.widget.RelativeLayout[.//*[@resource-id='com.todoist:id/name' and @text='Projects']]/following-sibling::*[./*[@text='Test Project']]]
+2020-08-17 00:27:59 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/fab})
+2020-08-17 00:28:00 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: android:id/message})
+2020-08-17 00:28:06 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:28:06 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:28:07 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 27034129640b1a7427aa49bb1182e938.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=zlDM5_HmsfTwipqw0jgvzbcwpNs6YTSEhibphfa1zeJDXfONYNfzgg==
+2020-08-17 00:28:09 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-17 00:28:10 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:28:11 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 e7e467a77c2b65d1f524a87aad79becb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=NfssI1XgVQSl25LYo0siJurlIFop6QVBrgQpIc1FVNXnGhCUq4Ifig==
+2020-08-17 00:28:10 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:28:11 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:28:11 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 ae21288860f8ce57d2c67159e0264a1c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=jcgC5Er4DYFI3hkk7CoroHMUABPUtJ4Oj7yaEY9FhyMC_gWk_oTOnA==
+2020-08-17 00:28:11 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:28:12 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:28:12 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 94db66e0b13cce35d9db0c342571f977.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=FINP9Zn7hGwG8JDohc5QwoqySBld4JFZnFUdgp0GDGEHHP87l9nIFg==
+2020-08-17 00:28:12 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242047886
+2020-08-17 00:28:12 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:28:12 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 9f38c2a6db20be36b013f42be8683fdd.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=blkywKOG5Cw6NfnCXF-1bwPkgCp1K3dH9vCnAHDlMf_vTotb8lgNfw==
+2020-08-17 00:28:34 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:28:34 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:28:34 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f0a04ccdef21b4237b2d018056b3367d.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=PqRM75XKu79vF55A9zZEFWd3bPlVBFJf7-CxQkLS5aajh_QWuxc29A==
+2020-08-17 00:28:34 INFO  Log:14 - Response body: {
+	"id": 2242047927,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:28:35 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_welcome_continue_with_email})
+2020-08-17 00:28:37 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: com.todoist:id/email_exists_input})
+2020-08-17 00:28:39 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_continue_with_email})
+2020-08-17 00:28:42 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: com.todoist:id/log_in_password})
+2020-08-17 00:28:43 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_log_in})
+2020-08-17 00:28:49 INFO  Log:14 - Click to element :Located by By.chained({By.AccessibilityId: Change the current view})
+2020-08-17 00:28:50 INFO  Log:14 - Click to element :Located by By.chained({By.xpath: //*[@resource-id='com.todoist:id/name' and @text='Projects']/following-sibling::android.widget.ImageView})
+2020-08-17 00:28:52 INFO  Log:14 - Click to element :[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, databaseEnabled=false, desired={platformName=android, app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, deviceName=Nexus_4_API_30, noReset=false, platformVersion=10, systemPort=8201}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86_arm, deviceName=emulator-5554, deviceScreenDensity=320, deviceScreenSize=768x1280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=48, systemPort=8201, takesScreenshot=true, viewportRect={left=0, top=48, width=768, height=1136}, warnings={}, webStorageEnabled=false}] -> xpath: //android.widget.RelativeLayout[.//*[@resource-id='com.todoist:id/name' and @text='Projects']]/following-sibling::*[./*[@text='Test Project']]]
+2020-08-17 00:28:56 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/fab})
+2020-08-17 00:28:58 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: android:id/message})
+2020-08-17 00:29:03 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:29:04 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:29:04 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 da2930182b81a0969bededaf2726cadc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=e1kKWUVAQ5xwXfnw3PqH_6Ktb2TA_7XVxktsXTNjEO41CjYxk6pEbQ==
+2020-08-17 00:29:07 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/tasks
+2020-08-17 00:29:08 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=296
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:29:08 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 f0a04ccdef21b4237b2d018056b3367d.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=W6ZoLWxr-OHvA2HCAbzopu51PDGm341rbPFbc9bfqVZlZDJqV548pA==
+2020-08-17 00:29:08 INFO  Log:14 - Click to element :[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, databaseEnabled=false, desired={platformName=android, app=E:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk, appPackage=com.todoist, appWaitActivity=com.todoist.activity.HomeActivity,com.todoist.activity.WelcomeActivity, appWaitDuration=60000, autoGrantPermissions=true, avd=Nexus_4_API_30, deviceName=Nexus_4_API_30, noReset=false, platformVersion=10, systemPort=8201}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86_arm, deviceName=emulator-5554, deviceScreenDensity=320, deviceScreenSize=768x1280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=false, pixelRatio=2, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=48, systemPort=8201, takesScreenshot=true, viewportRect={left=0, top=48, width=768, height=1136}, warnings={}, webStorageEnabled=false}] -> xpath: //*[@resource-id='com.todoist:id/text' and @text='New creation task']/preceding-sibling::android.widget.CheckBox]
+2020-08-17 00:29:10 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/tasks/4106129883/reopen
+2020-08-17 00:29:10 INFO  Log:14 - Response header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:29:10 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 246b44c4747953e35657a81aebd7c7fb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=IdJHf4XHa7o6oUHydbYTibjDfZMHQC4CEBYyy9sSsZD3UfcRyji6sQ==
+2020-08-17 00:29:10 INFO  Log:14 - Response body: 
+2020-08-17 00:29:15 INFO  Log:14 - Get with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:29:15 INFO  Log:14 - Request header: Content-Type=application/json
+Content-Length=325
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:29:15 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 94db66e0b13cce35d9db0c342571f977.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=jlcioHYZkVwgZsx-jYSxJOlGexqCvSLUtOpJpcewtEUMkbwXZH6n-g==
+2020-08-17 00:29:15 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2020-08-17 00:29:16 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:29:16 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 246b44c4747953e35657a81aebd7c7fb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=NfLNfKX2AWobr11DB20uooivbNlFv6G8GDlCGUcL3OOnxLH7XtIHoQ==
+2020-08-17 00:29:16 INFO  Log:14 - Delete with API url: https://api.todoist.com/rest/v1/projects/2242047927
+2020-08-17 00:29:17 INFO  Log:14 - Request header: Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:29:17 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 27034129640b1a7427aa49bb1182e938.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=PpsrmnUL-FnTKIXZHgS2PVbRggnzEu3L4TQLnow7ie3v2gFx6wPV0w==
+2020-08-17 00:38:04 INFO  Log:14 - Post with API url: https://api.todoist.com/rest/v1/projects
+2020-08-17 00:38:04 INFO  Log:14 - Response header: Content-Type=application/json
+Content-Length=148
+Connection=keep-alive
+Date=Sun, 16 Aug 2020 17:38:04 GMT
+X-Cache=Miss from cloudfront
+Via=1.1 1a98edd9b5ae710aff749fc0d5d62d67.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG62-C2
+X-Amz-Cf-Id=0WG7UQg8_OgAT_15-oMPwSVmjTrKdTfrbUNcTqTnYW9udACayv6lOA==
+2020-08-17 00:38:04 INFO  Log:14 - Response body: {
+	"id": 2242048427,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0
+}
+
+2020-08-17 00:38:05 INFO  Log:14 - Click to element :Located by By.chained({By.id: com.todoist:id/btn_welcome_continue_with_email})
+2020-08-17 00:38:35 INFO  Log:14 - Sendkey to element :Located by By.chained({By.id: com.todoist:id/email_exists_input})

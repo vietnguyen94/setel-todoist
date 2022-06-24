@@ -1,0 +1,101 @@
+2022-06-24 12:12:10 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2022-06-24 12:12:10 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=205
+Connection=keep-alive
+Date=Fri, 24 Jun 2022 05:12:07 GMT
+Access-Control-Allow-Credentials=false
+Access-Control-Allow-Origin=*
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=02e4a8a99054418b9b7345126168d192; Expires=Mon, 21-Jun-2032 05:12:07 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 7e94e2a36b24f348c9dbb92fb8437e84.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=jzqzaMOBFN1dsDTqljfg6o4f6mfjVyueFnh-bbl_hEsdQSYUEBuNbw==
+2022-06-24 12:12:10 INFO  Log:16 - Response body: {
+	"id": 2293819252,
+	"order": 1,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2293819252"
+}
+
+2022-06-24 12:13:48 ERROR Log:26 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'G:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'G:\Automation\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Admin\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Admin\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:381:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: AndroidDriver
+2022-06-24 12:13:50 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2022-06-24 12:13:50 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=205
+Connection=keep-alive
+Date=Fri, 24 Jun 2022 05:13:47 GMT
+Access-Control-Allow-Credentials=false
+Access-Control-Allow-Origin=*
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=617effe07e694693a16ca6bfbe0612c2; Expires=Mon, 21-Jun-2032 05:13:47 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 81be8e7f466e91b9051c8f3ca006beb6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=DGtrykjuplbmPKg9aKNHSatHRsvPNFY5x8Zwhtj7zo8V-v2az2tCzw==
+2022-06-24 12:13:50 INFO  Log:16 - Response body: {
+	"id": 2293819298,
+	"order": 2,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2293819298"
+}
+
+2022-06-24 12:21:02 ERROR Log:26 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details
+    at getResponseForW3CError (C:\Users\Admin\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Admin\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:381:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: AndroidDriver
+2022-06-24 12:21:03 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2022-06-24 12:21:03 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=205
+Connection=keep-alive
+Date=Fri, 24 Jun 2022 05:21:01 GMT
+Access-Control-Allow-Credentials=false
+Access-Control-Allow-Origin=*
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=b9f47a7ae23a443b90deabe9eef57377; Expires=Mon, 21-Jun-2032 05:21:01 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 63a9656547554dba88dc94e9fc75671a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=VoWhGX3di5NpIEA8tOEgpt1qVzaAVz_wwvZbZGC35VDKRMAnS9ZMHg==
+2022-06-24 12:21:03 INFO  Log:16 - Response body: {
+	"id": 2293819439,
+	"order": 3,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2293819439"
+}
+
